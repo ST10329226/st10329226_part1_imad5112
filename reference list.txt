@@ -1,0 +1,4 @@
+reference list 
+
+https://youtu.be/v24Bhk7wQI8?si=RjG6xlviCV9ay-2w - Create a Simple Calculator App in Android Studio - Kotlin | For Beginners 2022
+https://youtu.be/2hSHgungOKI?si=1-5F5ef7FnDI99Oe - Calculator App Android Studio Kotlin Tutorial
